@@ -210,3 +210,4 @@ Projet académique - Usage éducatif uniquement
 ## 👨‍💻 Auteurs
 
 Développé par **Wafae El Kari** et **Souha Siragi** dans le cadre d'un projet académique.
+"# stage-platform" 
